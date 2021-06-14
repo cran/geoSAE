@@ -1,0 +1,16 @@
+84c07c4fb007e4c6b6d8c5d96470d853 *DESCRIPTION
+858a3bbea855cb5be922c474e0e6d96e *NAMESPACE
+5ab8da1a63b88f7c880b7cbea773d895 *R/dataArea.R
+4dcf92b18fdbef5c4455ab321665f605 *R/dataUnit.R
+c3c1adaa0ca1265d2665a15309690341 *R/eblupGeo.R
+d76187bbe29a2fdfb607ee76ffb7cf39 *R/pbmseGeo.R
+1c53672733789a4c665c69725070217b *R/zspline.R
+98c22b37e8e67ae57511e9c09ea2290f *README.md
+31f9a2e99e5ee0d54269e7830cc5953c *data/dataArea.rda
+dd579fb27d796bff47e821792a67e29c *data/dataUnit.rda
+74c55dafa275b91e6ed0e0332ea1f151 *data/zspline.rda
+a3e180d0dd078ef44890958a14043603 *man/dataArea.Rd
+99cfe1559d1faf7df14d5e7441241517 *man/dataUnit.Rd
+f88d8b0832fa192301a870899e639957 *man/eblupgeo.Rd
+ce8314c89671d5bec6c8806efd50d6f8 *man/pbmsegeo.Rd
+3022772a5868105b25895ee4d6f04a7e *man/zspline.Rd
